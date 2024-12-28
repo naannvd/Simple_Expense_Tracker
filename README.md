@@ -1,6 +1,6 @@
-# udemy_practice3
+# Expense Tracker
 
-A new Flutter project.
+A simple expense tracker with an interactive UI using a local storage to hold all the user expenses.
 
 ## Getting Started
 
